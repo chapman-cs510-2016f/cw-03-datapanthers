@@ -1,6 +1,6 @@
 # CS510 CW 3
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _\Simrath Ratra, Andrew Nguyen, Afnan Alqahtani\>_
 
 [![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-03-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-03-YOURNAME)
 
@@ -41,4 +41,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Simrath Ratra, Andrew Nguyen, Afnan Alqahtani**
