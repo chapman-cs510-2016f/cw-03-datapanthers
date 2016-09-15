@@ -2,7 +2,7 @@
 
 **Author(s):** _\Simrath Ratra, Andrew Nguyen, Afnan Alqahtani\>_
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-03-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-03-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-03-datapanthers.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-03-datapanthers)
 
 **Due date:** 2016/09/20
 
