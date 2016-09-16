@@ -30,7 +30,8 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**This section was useful in practicing to code in python more rigorously than previous assignemnts.
+It was also very useful in learning about docstrings, practicing and understanding __main__ and main(argv), and learning to connect multiple scripts together to work together. We found that we had to do a lot of internet research to figure out how to implement #3. Though it was good as a self learning, maybe 1 hint, like previous assignments, could help students who are unfamiliar with coding.**
 
 ## Honor Pledge
 
