@@ -14,6 +14,7 @@ def main(n):
     x=sequences.fibonacci(n)
     #prints the last element of the fibonacci sequence 
     print x[-1]
+    return x[-1]
 
 #checks to make sure that user input is valid
 if __name__ == "__main__":
