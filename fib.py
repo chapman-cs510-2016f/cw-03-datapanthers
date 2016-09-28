@@ -1,6 +1,11 @@
 #takes all files from sequences.py
 import sequences
 
+#
+### INSTRUCTOR COMMENTS:
+# See my comments on the other files - several of them also apply here.
+#
+
 """Module Description
 This function uses the fibonacci function from sequences.py
 to find the n squences of the fibonacci series. 
